@@ -11,6 +11,9 @@
 		D3EF89AE26BF569000670AD8 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3EF89AD26BF569000670AD8 /* ContentView.swift */; };
 		D3EF89B026BF569300670AD8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D3EF89AF26BF569300670AD8 /* Assets.xcassets */; };
 		D3EF89B326BF569300670AD8 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D3EF89B226BF569300670AD8 /* Preview Assets.xcassets */; };
+		D3EF89BB26BF56FB00670AD8 /* RedOneView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3EF89BA26BF56FB00670AD8 /* RedOneView.swift */; };
+		D3EF89BD26BF576A00670AD8 /* BlueTwoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3EF89BC26BF576A00670AD8 /* BlueTwoView.swift */; };
+		D3EF89BF26BF577700670AD8 /* GreenThreeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3EF89BE26BF577700670AD8 /* GreenThreeView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +23,9 @@
 		D3EF89AF26BF569300670AD8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D3EF89B226BF569300670AD8 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		D3EF89B426BF569300670AD8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D3EF89BA26BF56FB00670AD8 /* RedOneView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RedOneView.swift; sourceTree = "<group>"; };
+		D3EF89BC26BF576A00670AD8 /* BlueTwoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlueTwoView.swift; sourceTree = "<group>"; };
+		D3EF89BE26BF577700670AD8 /* GreenThreeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GreenThreeView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +63,9 @@
 				D3EF89AF26BF569300670AD8 /* Assets.xcassets */,
 				D3EF89B426BF569300670AD8 /* Info.plist */,
 				D3EF89B126BF569300670AD8 /* Preview Content */,
+				D3EF89BA26BF56FB00670AD8 /* RedOneView.swift */,
+				D3EF89BC26BF576A00670AD8 /* BlueTwoView.swift */,
+				D3EF89BE26BF577700670AD8 /* GreenThreeView.swift */,
 			);
 			path = "SwiftUI-TabView";
 			sourceTree = "<group>";
@@ -139,7 +148,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				D3EF89AE26BF569000670AD8 /* ContentView.swift in Sources */,
+				D3EF89BD26BF576A00670AD8 /* BlueTwoView.swift in Sources */,
+				D3EF89BB26BF56FB00670AD8 /* RedOneView.swift in Sources */,
 				D3EF89AC26BF569000670AD8 /* SwiftUI_TabViewApp.swift in Sources */,
+				D3EF89BF26BF577700670AD8 /* GreenThreeView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
